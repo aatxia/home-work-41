@@ -8,7 +8,7 @@
 - **`ErrorBoundary`:** перехоплює помилки, якщо Promise повертає `reject`, і коректно відображає помилки.
 ## Запуск
 ```bash
-  git clone 
+git clone https://github.com/aatxia/home-work-41
 
 npm install
 
