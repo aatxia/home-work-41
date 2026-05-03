@@ -1,6 +1,7 @@
 # React use() 
 
 Проєкт показує використання хуку `use()` в React.
+Deploy: https://home-work-41-pearl.vercel.app/ 
 
 ##  Реалізований функціонал:
 - **`use()` Hook:** Використано для  Promise в `MessageComponent`.
